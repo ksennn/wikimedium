@@ -3,9 +3,6 @@
 		display: none;
 	}
 }
-/* @media all and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
-article > p { width: calc(100% - 40px); }
-} */
 @media all and (max-width: 1020px) {
 	article img { width: 100%; }
 }
